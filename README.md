@@ -11,4 +11,4 @@ react-icons
 react-router-dom
 react-scripts
 
-The project is live at [here]([https://www.libsdl.org/](https://startling-florentine-012a07.netlify.app/)).
+The project is live at [here](https://startling-florentine-012a07.netlify.app/).
